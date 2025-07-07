@@ -14,6 +14,7 @@ description: A machine is a thing. Things can not think. ...but some of them can
 
 machine:
   name: Reasoning-Machine
+  verb: Reasoning
   instructions_file: reasoning.txt
   token: grok.txt
   apiUrl: https://api.x.ai/v1/chat/completions
