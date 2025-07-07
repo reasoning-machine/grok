@@ -23,7 +23,7 @@ app:
   worker_name: grokapi.js
 
 lm:
-  model: grok-3-mini-fast
+  model: grok-3-mini
   max_completion_tokens: 8192
   presence_penalty: 0.0
   temperature: 1.0
